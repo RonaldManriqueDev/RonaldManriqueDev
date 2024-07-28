@@ -76,35 +76,30 @@
 
 <br>
 
-## <b> Let's Connect..!</b><img src="./assets/mdImages/handshake.gif" width ="80">
-<br>
-<div align='left'>
-
-<ul>
-
-<li>
-<a href="https://linkedin.com/in/0xabdulkhalid" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-0077B5.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin/>
-</a>
-</li>
-
+## <b>Let's Connect..!</b>
+<img src="./assets/mdImages/handshake.gif" width="80">
 <br>
 
-<li>
-<a href="https://twitter.com/0xabdulkhalid" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  0xabdulkhalid-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="mailto:0xabdulkhalid@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  0xabdulkhalid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail/>
-</a>
-</li>
-	
-</ul>
+<div align="left">
+  <ul>
+    <li>
+      <a href="https://linkedin.com/in/0xabdulkhalid" target="_blank">
+        <img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-0077B5.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+      </a>
+    </li>
+    <br>
+    <li>
+      <a href="https://twitter.com/0xabdulkhalid" target="_blank">
+        <img src="https://img.shields.io/badge/twitter:  0xabdulkhalid-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>
+      </a>
+    </li>
+    <br>
+    <li>
+      <a href="mailto:0xabdulkhalid@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/gmail:  0xabdulkhalid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
+      </a>
+    </li>
+  </ul>
 </div>
 
 <br>
@@ -112,4 +107,5 @@
 <br>
 <br>
 <br>
+
 
