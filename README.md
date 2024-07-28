@@ -68,8 +68,8 @@
 <div align="center">
 
 <a href="https://github.com/RonaldManriqueDev">
-  <img src="https://github-readme-stats.vercel.app/api?username=RonaldManriqueDev&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&cache_seconds=600" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RonaldManriqueDev&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&cache_seconds=600" width="375" alt="RonaldManriqueDev"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RonaldManriqueDev&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&cache_seconds=60" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RonaldManriqueDev&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&cache_seconds=60" width="375" alt="RonaldManriqueDev"/>
 </a>
 
 </div>
