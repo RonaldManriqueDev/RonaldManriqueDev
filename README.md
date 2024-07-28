@@ -16,13 +16,6 @@
 - 🛠️I like to explore new technologies, tools, frameworks and work methodologies.
 - 🏋️ In my free time I go to the gym, play chess.
 
-<br><br>
-
-Skills</b>
-<br>
-
-<p align="center">
-
 <br>   
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
