@@ -76,7 +76,7 @@
 
 <br>
 
-## Let's Connect..
+## <b> Let's Connect..
 <br>
 <div align='left'>
 
