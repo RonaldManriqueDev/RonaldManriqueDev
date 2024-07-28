@@ -1,5 +1,5 @@
 
-<h1 align="center"><b>Hola , Mi nombre es Ronald Alexis Arias Manrique </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , Mi name is Ronald Alexis Arias Manrique </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -13,11 +13,10 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- 📚 UIS Systems Engineer.
+- 💻 Passionate about software development.
+- 🛠️I like to explore new technologies, tools, frameworks and work methodologies.
+- 🏋️ I like to exercise and play chess in my free time.
 
 <br><br>
 
