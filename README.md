@@ -101,7 +101,7 @@
 
 <li>
 <a href="mailto:@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  zazazaza5.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:SEUGMAIL)
 </a>
 </li>
 	
