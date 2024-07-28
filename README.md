@@ -76,7 +76,8 @@
 
 <br>
 
-## <b> Let's Connect..!</b><img src="./assets/mdImages/handshake.gif" width ="80">
+
+## Let's Connect..!</b><img src="./assets/mdImages/handshake.gif" width ="80">
 <br>
 <div align='left'>
 
