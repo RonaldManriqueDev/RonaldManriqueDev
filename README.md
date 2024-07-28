@@ -14,7 +14,7 @@
 - 📚 UIS Systems Engineer.
 - 💻 Passionate about software development.
 - 🛠️I like to explore new technologies, tools, frameworks and work methodologies.
-- 🏋️ I like to exercise and play chess in my free time.
+- 🏋️ I exercise and play chess in my free time.
 
 <br><br>
 
