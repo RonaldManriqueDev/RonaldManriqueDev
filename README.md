@@ -91,7 +91,8 @@
     <br>
     <li>
      
-      <a href="mailto:0xa@gmail.com" target="_blank">
+
+<a href="mailto:0xabdulkhalid@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/gmail:  zazaza-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
       </a>
     </li>
