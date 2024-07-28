@@ -27,7 +27,6 @@ Skills</b>
 <p align="center">
 
 <br>   
-<br>   
     
 - **Front-End Development**:
 
