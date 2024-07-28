@@ -74,7 +74,7 @@
 
 <br>
 
-## Let's Connect..!</b><img src="https://halid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## Let's Connect..
 <br>
 <div align='left'>
 
