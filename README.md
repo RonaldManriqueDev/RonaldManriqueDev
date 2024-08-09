@@ -81,28 +81,7 @@
   <h2><b>Let's Connect..!</b> <img src="./assets/mdImages/handshake.gif" width="80"></h2>
 </div>
 
-<div align="left">
-  <ul>
-    <li>
-      <a href="https://linkedin.com/ind" target="_blank">
-        <img src="https://img.shields.io/badge/linkedin:  zazaza-0077B5.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
-      </a>
-    </li>
-    <br>
-    <li>
-     
 
-<a href="mailto:0xabdulkhalid@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/gmail:  zazaza-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
-      </a>
-    </li>
-  </ul>
-</div>
 
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-<br>
-<br>
 
 
